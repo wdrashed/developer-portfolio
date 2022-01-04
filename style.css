@@ -38,3 +38,6 @@ section{
     background-repeat:no-repeat;
     background-position:right;
 }
+.half-width p{
+    padding-right:100px;
+}
